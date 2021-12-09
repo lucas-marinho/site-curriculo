@@ -1,0 +1,121 @@
+html{
+	scroll-behavior: smooth;
+}
+
+.naoentra{
+	margin-top: 0;
+}
+
+#sobre1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center; ;
+    background-color:white;
+    color: #161616;
+    
+}
+
+#sobre1 p{
+    margin-top: 20px;
+    font-size: 19px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+}
+
+#sobre1 h2 {
+    margin-top: 20px;
+    font-size: 2em;
+    margin-bottom: 15px;
+    text-align: center;
+}
+ 
+.foto img{
+    width: 60%;
+    border-radius: 100%;
+}
+
+.foto{
+    float: left;
+    width: 40%;
+    padding-top: 1%;
+
+}
+
+.texto {
+    float: right;
+    width: 50%;
+}
+
+#geral{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color:white;
+    color: #16161
+}
+
+.espec{
+    align-items: center;
+    text-align: center;
+    border-radius: 50%;
+}
+
+footer{
+    text-align: center;
+    width: 100%;
+    background-color: #27336F;
+    color:#F8F8FF;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+#contato{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    width: 100%;
+    
+}
+
+#contato h2{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-width: 20px;
+    margin-bottom: 20px;
+    font-size: 2em;
+    text-align: center;
+    color: #161616;
+}
+
+#contato > p{
+    margin-bottom: 20px;
+    font-size: 1.2em;
+    text-align: center;
+    color: #161616;
+}
+
+#contato a{
+    text-decoration: none;
+    color: firebrick;
+    text-align: center;
+}
+
+#contato img{
+    width: 2cm;
+    height: 2cm;
+}
+
+
+.footer1 p{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+
