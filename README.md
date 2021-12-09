@@ -1,2 +1,2 @@
 # site-novo-curriculo
-curriculo
+https://lucas-marinho.github.io/site-novo-curriculo/
